@@ -25,12 +25,17 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 NeoBundle 'tomasr/molokai'
 " airline
 NeoBundle 'bling/vim-airline.git'
+" surround-vim
+NeoBundle 'surround.vim'
 " vom-scala
 NeoBundle 'derekwyatt/vim-scala'
 " clever-f
 NeoBundle 'rhysd/clever-f.vim'
 " bracket completion
 " NeoBundle 'Raimondi/delimitMate'
+
+" ensime vim
+NeoBundle 'ensime/ensime-vim'
 
 " completion
 NeoBundle 'Shougo/neocomplete'
